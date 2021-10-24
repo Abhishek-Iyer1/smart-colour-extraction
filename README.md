@@ -13,6 +13,7 @@ The previous work for the median-cut algorithm can be found [here](https://githu
 <p align="center">
  <img src="outputs/Unsplash_output.png" width=80%>
 </p>
+
 - - - -
 
 ## Custom Dataset
@@ -21,6 +22,7 @@ The previous work for the median-cut algorithm can be found [here](https://githu
   -Custom Dataset
       |_ images
         001.jpg
+        002.png
         ...
       |_ annotations
         annotations.xlsx
