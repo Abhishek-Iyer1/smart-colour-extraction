@@ -6,7 +6,7 @@ The previous work for the median-cut algorithm can be found [here](https://githu
 
 ## Unsplash API
 1. You need to create an account in Unsplash and generate an API key.
-2. Copy your key, and paste it in the [Notebook](https://github.com/Abhishek-Iyer1/smart-colour-extraction/src/blob/main/Keyword_Palette_Generation.ipynb)
+2. Copy your key, and paste it in the [Notebook](https://github.com/Abhishek-Iyer1/smart-colour-extraction/blob/main/src/Keyword_Palette_Generation.ipynb)
 3. Input keywords separated by commas, and the number of results you would like to see the output of.
 4. You will see similar results as seen below: 
 
