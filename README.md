@@ -11,7 +11,7 @@ The previous work for the median-cut algorithm can be found [here](https://githu
 4. You will see similar results as seen below: 
 
 <p align="center">
- <img src="outputs/Unsplash_output.png" width=80%>
+ <img src="outputs/Unsplash_output.png" width=50%>
 </p>
 
 - - - -
