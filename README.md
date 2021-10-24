@@ -14,13 +14,13 @@ The previous work for the median-cut algorithm can be found [here](https://githu
 </p>
 
 ## Custom Dataset
--1. Create your custom dataset by following the below shown file structure
+1. Create your custom dataset by following the below shown file structure
     -Custom Dataset
       |_ images
         001.jpg
         ...
       |_ annotations
         annotations.xlsx
--2. Upload to your drive or locally and change the path in the Custom Dataset cell. Make sure your .xlsx file has the same columns (Image Name, Filepath, and Keywords) as the one in IR Dataset.
--3 Input keywords and you will see a similar output as above.
+2. Upload to your drive or locally and change the path in the Custom Dataset cell. Make sure your .xlsx file has the same columns (Image Name, Filepath, and Keywords) as the one in IR Dataset.
+3 Input keywords and you will see a similar output as above.
 
