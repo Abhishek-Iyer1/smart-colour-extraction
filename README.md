@@ -23,7 +23,7 @@ The previous work for the median-cut algorithm can be found [here](https://githu
       |_ images
           001.jpg
           002.png
-        ...
+          ...
       |_ annotations
           annotations.xlsx
    ```
