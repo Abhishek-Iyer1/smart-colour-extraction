@@ -21,11 +21,11 @@ The previous work for the median-cut algorithm can be found [here](https://githu
   ```
   -Custom Dataset
       |_ images
-          001.jpg
-          002.png
-          ...
+         |_001.jpg
+         |_002.png
+         |_ ...
       |_ annotations
-          annotations.xlsx
+         |_annotations.xlsx
    ```
 2. Upload to your drive or locally and change the path in the Custom Dataset cell. Make sure your .xlsx file has the same columns (Image Name, Filepath, and Keywords) as the one in IR Dataset.
 3. Input keywords and you will see a similar output as above.
